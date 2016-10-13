@@ -7,7 +7,7 @@ Blueprint: Multi-Level Menu
 
 A simple multi-level menu with delayed item animations and optional breadcrumb navigation and back button.
 
-[Article on Codrops](http://tympanus.net/codrops/?p=25521)
+[Article on Codrops](https://astucc.io/coding/multi-level-menu-plugin/)
 
 [Demo](http://tympanus.net/Blueprints/MultiLevelMenu/)
 
